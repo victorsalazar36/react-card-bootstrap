@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-card-bootstrap/static/css/main.affeae1f.css",
+    "main.js": "/react-card-bootstrap/static/js/main.cfd85aa3.js",
+    "static/media/image2.jpg": "/react-card-bootstrap/static/media/image2.f57e37a5b9faa9d51e1c.jpg",
+    "static/media/image3.jpg": "/react-card-bootstrap/static/media/image3.de2e4145d934e647f47d.jpg",
+    "index.html": "/react-card-bootstrap/index.html",
+    "main.affeae1f.css.map": "/react-card-bootstrap/static/css/main.affeae1f.css.map",
+    "main.cfd85aa3.js.map": "/react-card-bootstrap/static/js/main.cfd85aa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.affeae1f.css",
+    "static/js/main.cfd85aa3.js"
+  ]
+}
